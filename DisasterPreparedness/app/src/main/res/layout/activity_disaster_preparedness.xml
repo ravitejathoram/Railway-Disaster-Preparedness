@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.teju.disasterpreparedness.DisasterPreparedness"
+    android:background="#fff">
+
+    <include layout="@layout/toll_bar" android:id="@+id/toll"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@drawable/mycustom_background"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:fitsSystemWindows="true"
+            android:id="@+id/imageView1"
+            android:layout_gravity="top"
+            android:src="@drawable/train2"
+            android:scaleType="fitXY"
+
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="get required help in time"
+            android:textSize="20dp"
+            android:layout_gravity="center"
+            android:id="@+id/textView9"
+            android:textColor="#ff040203"
+            android:textStyle="bold"
+            android:layout_below="@+id/imageView1"
+            android:layout_centerHorizontal="true" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.2"
+        android:paddingTop="10dp"
+        android:layout_below="@+id/textView9"
+        android:orientation="vertical"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+
+        android:id="@+id/gridLayout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:background="@drawable/mycustom_background"
+
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:src="@drawable/soss"/>
+
+                <Button
+                    android:backgroundTint="#1E9D96"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SOS"
+                    android:padding="5dp"
+                    android:textColor="@android:color/background_light"
+                    android:id="@+id/button"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/mycustom_background"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:src="@drawable/safety"/>
+                <Button
+                    android:backgroundTint="#1E9D96"
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:padding="10dp"
+                    android:text="Safety Tips"
+                    android:textColor="@android:color/background_light"
+                    android:id="@+id/button2"
+                    android:layout_gravity="right" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+
+            android:orientation="horizontal">
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/mycustom_background"
+
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:src="@drawable/fb"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Social Share"
+                    android:id="@+id/button3"
+                    android:backgroundTint="#1E9D96"
+                    android:textColor="@android:color/background_light"
+                    />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/mycustom_background"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:src="@drawable/rescuepoints"/>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp"
+                    android:text="Rescue Points"
+                    android:textColor="@android:color/background_light"
+                    android:backgroundTint="#1E9D96"
+
+                    android:id="@+id/button4"
+                    android:layout_gravity="right" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

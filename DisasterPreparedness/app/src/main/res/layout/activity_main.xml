@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context="com.example.teju.sample.MainActivity">
+
+
+    <include layout="@layout/toll_bar"
+        android:id="@+id/toll"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="POST ON YOUR FACEBOOK ABOUT THE DISASTER AND LET YOUR FRIENDS KNOW ABOUT IT AS SOON AS POSSIBLE"
+        android:layout_alignParentTop="true"
+        android:textSize="16dp"
+        android:padding="10dp"
+        android:id="@+id/textView10"
+        android:layout_below="@+id/toll"
+        android:layout_marginTop="56dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:alpha="0.15"
+        android:layout_alignTop="@+id/textView10"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="SUBJECT"
+        android:paddingTop="20dp"
+        android:id="@+id/textView"
+
+        android:layout_below="@+id/textView10"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:text="#railway#accident#disaster"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="DESCRIPTION"
+        android:paddingTop="10dp"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText2"
+        android:text="Need Help!!!"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="POST"
+        android:backgroundTint="#1E9D96"
+        android:id="@+id/button"
+        android:layout_centerInParent="true"
+        android:padding="10dp"
+        android:layout_marginTop="20dp"
+        android:textColor="@android:color/background_light"
+        android:layout_below="@+id/editText2"
+        />
+
+
+</RelativeLayout>

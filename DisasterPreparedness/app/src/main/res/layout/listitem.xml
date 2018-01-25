@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="60dp"
+        android:text="sample"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/list_item_tv"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="First Aid"
+        android:id="@+id/list_item_btn"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/list_item_tv"
+        android:layout_alignBottom="@+id/list_item_tv"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

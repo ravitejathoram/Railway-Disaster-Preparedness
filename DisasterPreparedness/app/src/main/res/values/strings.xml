@@ -1,0 +1,160 @@
+<resources>
+    <string name="app_name">Railway Disaster Preparedness</string>
+    <string name="sms">SMS</string>
+    <string name="call">CALL</string>
+    <string name="email">E-MAIL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_id">269907623445928</string>
+    <string name="google_maps_key">AIzaSyC16dWr6lT8Zo_dISxmevbSGP_Hg9l4DD0</string>
+    <string name="action_settings">Settings</string>
+    <string name="step1"> <b> STEP 1: </b> \n
+       <b> Get help.</b> Call for emergency medical help or ask someone else nearby to do it while you begin caring for the injured person. Do this as soon as possible, so that help will quickly arrive. This is the key to survival for a severely injured person.\n
+<b>•  If </b> you suspect the person has injuries that are causing internal bleeding, let medical help know when you call. There might be internal bleeding if you notice the person coughing up blood, vomiting, or bleeding from the ears, eyes, nose, or mouth. Any sudden bruising along with swelling of the back, abdomen, or an arm or leg are also further signs of internal bleeding.
+</string> \n
+    <string name="step2"> <b>STEP 2:  </b> \n
+        Evaluate the injured person using the ABCDE mnemonic. ABCDE stands forAirways, Breathing, Circulation, Disability, and Exposure/Environment and serves as a reminder of the order in which you should evaluate the trauma of the injured person. Knowing the source of the trauma will help in deciding how to proceed with first aid as well as inform emergency personnel, such as 102 or 108 operators, to address the problem more accurately. \n
+<b>•  Airways:</b> Check for obstructions to the injured person\'s airways. Is there a foreign object in the way? Are there external or internal fractures preventing airflow? \n
+<b>•  Breathing:</b> Check if they are breathing. Is their chest rising and falling? Do they need additional oxygen? \n
+<b>•  Circulation:</b> Check that the injured person has adequate blood circulation. Do they have a pulse? Are they conscious? \n
+<b>•  Disability: </b> Check for signs of brain trauma. Are they conscious? Are their pupils dilated? \n
+<b>•  Exposure/Environment:</b> Check to see if they are injured elsewhere or at further risk. Are they protected from cold or hot? Are they restricted by their own clothes or dangerous elements? \n
+</string> \n
+    <string name="step3"> <b> STEP 3:  </b> \n
+        Make sure that there is no immediate danger of further injury. <b>Do not</b> move the injured person if you do not have to. However, if there is immediate danger of other injury (from traffic, falling objects, etc.), try to form a barrier, keeping the injured person and others safe, such as by directing traffic around an accident site. If you absolutely must move the injured person yourself, immobilize the wound site as best you can.</string> \n
+    <string name="step4"> <b>STEP 4:  </b> \n
+       <b> Wash </b> your  hands if possible. If you can, you\'ll want to sanitize your hands by washing them with soap and water. Put on surgical gloves as well, if they\'re available. This will not only protect you from the risk of getting diseases, but also prevent the injured person from becoming infected. \n
+<b>•  Always </b> be careful when handling someone else\'s blood. Since blood can carry disease-causing pathogens, take steps to wash your hands and protect yourself.\n
+<b>•  Never</b> re-use plastic or surgical gloves, since doing so can spread infection. \n
+<b>•  If you </b> do not have disposable gloves, try using something like plastic wrap to put a barrier between your hands and the wound.
+</string> \n
+    <string name="step5"><b> STEP 5:  </b> \n
+        <b> Clear </b> the wound site. If there is obvious dirt or debris in the wound, remove it if possible. However, do not try to remove large objects, or ones deeply embedded in the wound, since this can make bleeding worse. If you must leave an object in the wound, avoid pressing on it, as this may push it deeper into the wound.</string> \n
+    <string name="step6"> <b> STEP 6: </b> \n
+        <b> Apply pressure. </b> Use a sterile or clean cloth, bandage, or gauze and apply firm pressure directly on the site of the bleeding. Use your hands only if you have nothing else. Do not put pressure on an eye wound, or if there is an object embedded in the wound. \n
+<b>•  Keep applying pressure </b> without removing the cloth to check on the bleeding. If you take the bandage off, you could disturb clots that are forming to stop the bleeding.
+</string> \n
+    <string name="step7"> <b> STEP 7: </b> \n
+        <b> Secure the bandage.</b> You can fix the bandage in place with tape, gauze strips or whatever you have on hand, like a necktie or strip of cloth. Take care not to tie the strips too tightly, or you could cut off circulation.</string> \n
+    <string name="step8"> <b> STEP 8: </b> \n
+        <b>Elevate the wound. </b>If a bone does not appear to be broken, raise the wound site so that it is above the heart. For instance, if a leg is injured, raise it on a chair or place a pillow under it. Elevating the wound can keep blood from rushing to it and intensifying the bleeding.</string> \n
+    <string name="text">
+        We are providing information about first aids. The only thing you have to do is that you need to select the problem category.</string> \n
+    <string name="step9"><b> STEP 1: </b> \n
+    <b>Understand that </b> sometimes there are very subtle or no warning signs. Some heart attacks are sudden and intense and provide no warning signs or tell-tale symptoms. However, in most cases, there are at least subtle clues that usually get rationalized or marginalized. Early warning signs of heart disease include high blood pressure, sensation of chronic heartburn, reduced cardiovascular fitness and a vague feeling of malaise or being unwell. These symptoms may start many days or weeks before the heart muscle gets damaged enough to become dysfunctional. \n
+<b> •  Symptoms </b> in women are particularly hard to recognize and are ignored or missed even more often. \n
+<b> •  Major risk </b> factors for heart disease, heart attack and stroke include: high blood cholesterol levels, hypertension, diabetes, obesity, cigarette smoking and advancing age (65 years and older). \n
+<b> •  A heart attack </b> doesn\'t always lead to cardiac arrest (complete heart stoppage), but cardiac arrest is always indicative of heart attack.
+</string> \n
+    <string name="step10"><b> STEP 2: </b> \n
+    <b>Recognize</b> the most common symptoms of a heart attack. Most heart attacks do not occur suddenly or "out of the blue." Instead, they typically start slowly with mild chest pain or discomfort that builds over many hours or even days. The chest pain (often described as intense pressure, squeezing or achiness) is located in the center of the chest and can be constant or intermittent. Other common common symptoms of heart attack include: shortness of breath, cold sweats (with pale or ashen skin), dizziness or lightheadedness, moderate-to-severe fatigue, nausea, abdominal pain and asensation of severe indigestion. \n
+<b>•  Not all </b> people who experience heart attacks have the same symptoms or the same severity of symptoms — there\'s lots of variability. \n
+<b>•  Some people </b> also report feeling a sense of "doom" or "impending death" that is unique to the heart attack experience. \n
+<b> •  Most people</b>  experiencing a heart attack (even a mild one) will collapse to the ground, or at least fall against something for support. Other common causes of chest pain don\'t typically lead to sudden collapse.\n
+</string>\n
+    <string name="step11"> <b> STEP 3: </b> \n
+    <b> Recognize some </b> of the less common symptoms of heart attack. In addition to the tell-tale symptoms of chest pain, shortness of breath and cold sweats, there are some less common symptoms characteristic of myocardial infarction that you should be familiar with in order to better gauge the probability of heart failure. These symptoms include pain or discomfort in other areas of the body, such as the left arm (or sometimes both), mid-back (thoracic spine), front of the neck and/or lower jaw.\n
+<b>•  Women </b> are more likely than men to experience less common symptoms of heart attack, particularly mid-back pain, jaw pain and nausea/vomiting.\n
+<b>•  Other diseases</b> and conditions can mimic some of the symptoms of heart attack, but the more signs and symptoms you experience, the greater the likelihood your heart is the cause.\n
+</string>\n
+    <string name="step12"><b>STEP 4: </b> \n
+   <b> Call emergency services immediately. </b> Act immediately and call 9-1-1 or other emergency services in your area if you suspect someone is having a heart attack. Even if they don\'t display all or even the majority of the signs and symptoms, calling for medical help is the most important action you can take for someone in severe distress. Emergency medical services (EMS) can begin treatment as soon as they arrive and are trained to revive someone whose heart has completely stopped.\n
+<b>•  If you </b> can\'t call 9-1-1 for some reason, ask a bystander to call and give you updates as to the estimated arrival of emergency services. \n
+<b>•  Patients </b>with chest pain and suspected heart attack who arrive by ambulance usually receive faster attention and treatment at hospitals.
+</string>\n
+<string name="step13"><b>STEP 1: </b> \n
+Apply pressure to a pressure point if the bleeding does not stop. A pressure point is a location where you can squeeze an artery against a bone, which can slow the flow of blood. There are two major pressure points on the body; choose the one nearest the site of the wound. \n
+<b>•  If</b> the bleeding is near a leg, press and hold against the femoral artery in the groin, where the leg bends at the hip.\n
+<b>•  If</b> the bleeding is near an arm, press and hold against the brachial artery, along the inside of the upper arm.
+</string>\n
+    <string name="step14"> <b> STEP 2: </b> \n
+    Help the injured person lie down, if the injury permits. Cover the injured person with a blanket or similar material to keep in body heat. Resting the injured person can help prevent him or her from going into shock.</string> \n
+    <string name="step15"><b> STEP 3: </b> \n
+   <b> Apply</b> more dressing to the wound, if necessary. Don\'t remove the cloth covering the wound even if it soaks through with blood, as this can make the bleeding worse. You can place another layer of cloth or bandage over the soaked one. The important thing is to keep applying pressure. Apply more dressing to the wound, if necessary. Don\'t remove the cloth covering the wound even if it soaks through with blood, as this can make the bleeding worse. You can place another layer of cloth or bandage over the soaked one. The important thing is to keep applying pressure. </string> \n
+    <string name="step16"><b>STEP 4: </b> \n
+   <b> Use </b> a tourniquet only if you have proper training. If bleeding does not stop, even after prolonged pressure, you may need to make a tourniquet. Because there are severe dangers from incorrectly placing or applying a tourniquet, you should only use one if you\'ve been trained to do so. \n
+<b> •  An </b> easy-to-use combat tourniquet is now available for civilian purchase. If you can get one, buy a Combat Application Tourniquet (CAT) and learn how to use it. \n
+<b>•  When </b> paramedics or other help arrives, let them know how long the tourniquet has been in place. \n
+</string> \n
+    <string name="step17"> <b> STEP 5: </b> \n
+   <b> Keep calm. </b>  Dealing with severe bleeding can be shocking and stressful. While you wait for medical help to arrive, calm yourself by focusing on the steps necessary to stop the bleeding. Calm the injured person by talking to him or her, and giving assurance that help is on the way.</string> \n
+    <string name="step18"><b> STEP 6: </b> \n
+   <b> Get </b> the injured person proper medical attention. If you\'re waiting for an ambulance, continue to stay with the injured person. Keep applying pressure to the wound. Or, if the bleeding has stopped and help is not on the way, try to get the injured person to the emergency room as quickly as you can. \n
+<b> •  Remember, </b> if you must move the injured person yourself, immobilize the wound site. If possible, wait until after the bleeding has stopped to move the person.\n
+<b> •  Don\'t remove </b> any bandages before taking the person to the emergency room. Removing them could cause bleeding to restart. \n
+<b>•  If </b>the person is alert, ask about any medicine they are taking or any known medical problems, also any known drug allergies. This can keep them distracted while you wait for help and is important information you can then pass on to medical professionals.
+</string> \n
+    <string name="step19"> <b> STEP 1: </b> \n
+   <b> Put </b> the person in a seated position, with knees raised. Most medical authorities recommend sitting a suspected heart attack sufferer down in the "W position" — semi-recumbent (sitting up at about 75 degrees to the ground) with knees bent. The person\'s back should be supported, perhaps with some pillows if at home or against a tree if outside. Once the person is in the W position, then loosen any loose clothing around his neck and chest (such as his necktie, scarf or top buttons of his shirt) and try to keep him still and calm. You may not know what\'s causing his discomfort, but you can reassure him that medical help is on its way and that you\'ll stay with him at least until that point. \n
+<b> •  The</b> person should not be allowed to walk around. \n
+<b>•  Keeping </b> a person calm while having a heart attack is certainly a challenge, but avoid being too chatty and asking lots of irrelevant personal questions. The effort required to answer your questions may be too taxing to the person. \n
+<b> •  While </b> waiting for emergency help, keep the patient warm by covering him with a blanket or jacket. \n
+</string> \n
+    <string name="step20"><b> STEP 2: </b> \n
+   <b> Ask </b> the person if she carries nitroglycerine. People with a history of heart problems and angina (chest and arm pain from heart disease) are often prescribed nitroglycerine, which is a powerful vasodilator that causes large blood vessels to relax (dilate) so more oxygenated blood can reach the heart. Nitroglycerine also reduces the painful symptoms of heart attack. People often carry their nitroglycerin with them, so ask if that\'s the case and then assist the person in taking it while waiting for emergency personnel to arrive. Nitroglycerin is available as little pills or a pump spray, both of which are administered under the tongue (sublingually). The spray (Nitrolingual) reportedly is faster acting because it\'s absorbed quicker than the pills. \n
+<b> •  If </b>  unsure of the dosage, administer one nitroglycerine pill or two pumps of the spray under the tongue. \n
+<b> •  After </b> administration of nitroglycerine, the person may become dizzy, lightheaded or faint soon after, so make sure she is secured, sitting down, and not in danger of falling and hitting her head. \n
+</string> \n
+    <string name="step21"> <b> STEP 3: </b> \n
+   <b> Administer </b> some aspirin. If you or the heart attack sufferer has any aspirin, then administer it if there\'s no indication of allergy. Ask the person if he has an allergy and look for any medical bracelets on his wrists if he has trouble talking. Provided he is not younger than 18 years old, give him a 300 mg aspirin tablet to chew slowly. Aspirin is a type of non-steroidal anti-inflammatory drug (NSAID) that can reduce heart damage by "thinning" the blood, which means preventing it from clotting. Aspirin also reduces associated inflammation and helps reduce the pain of heart attack. \n
+<b> •  Chewing </b> the aspirin allows the body to absorb it faster. \n
+<b>•  Aspirin </b> can be taken concurrently with nitroglycerine. \n
+<b> •  A dose </b> of 300 mg is either one adult tablet or two to four baby aspirins.
+•  Once at the hospital, stronger vasodilating, "clot-busting," anti-platelet and/or pain relieving (morphine-based) drugs are given to people experiencing heart attacks.
+</string> \n
+    <string name="step22"><b>STEP 1: </b> \n
+    <b>Cover</b> the dislocated joint with something sterile. It is important to take steps to prevent an infection, especially if there is any broken skin around the area of the dislocation. \n
+<b> •  Wait </b>until professional medical personnel arrive before attempting to wash or in any way "clean" the wound (if there is a wound, or if there are any areas of broken skin). \n <b>   Attempting </b> to do so without the proper sterilizing equipment or medical training actually increases the chance of infection rather than decreasing it.
+</string> \n
+    <string name="step23"> <b> STEP 2: </b> \n
+   <b> Immobilize </b>  the joint. Try to use nonstick gauze such as Telfa if there is an open wound. Note that it is very important not to try and re-position or re-align the joint in any way. This can cause further harm, and it is best to simply immobilize it in the position it is in and to wait for a trained medical professional to definitively treat the dislocation. \n
+<b>•  Be sure</b> to immobilize both above and below the dislocated joint to ensure maximum stability while awaiting medical treatment. \n
+<b>•  If</b> it is the shoulder that is dislocated, you can use a sling (or make a sling by tying a long piece of fabric into a circle) to immobilize it. Make sure the sling holds the limb against the body. Instead of just wrapping the sling around the neck, try wrapping it around the torso before tying it at the neck. \n
+<b>•  If </b> it is another joint such as a knee or elbow, a splint is your best bet. Splints can be constructed of sticks or another stabilizing device and tape or fabric strips to hold the splint in place.
+</string> \n
+    <string name="step24"><b>STEP 3: </b> \n
+   <b>  Monitor </b>the limb. This is to ensure it does not lose sensation, or exhibit a change in temperature or reduction in pulse. These signs could indicate an obstruction of blood flow or damage to the nerves leading down to the limb. If any of these changes occur, seek medical assistance for treating the dislocation immediately.\n
+<b>•  Check </b> the pulse in the area of the limb farthest from the center of the body — in the wrist if the arm or shoulder is dislocated, on the top of the foot or behind the ankle bone if the injury is to a leg. \n
+</string>
+    <string name="step25"><b>STEP 1: </b> \n
+    Determine responsiveness. If a person is unconscious, try to rouse them by speaking to them; do not be afraid to speak up. If they do not respond to activity, sound, touch, or other stimulation, determine whether they are breathing.</string> \n
+    <string name="step26"><b>STEP 2: </b> \n
+        <b> Check</b> for breathing and a pulse. If unconscious and unable to be roused, check for breathing: look for a rise in the chest area; listen for the sound of air coming in and out; feel for air using the side of your face. If no signs of breathing are apparent, place two fingers under the chin and gently guide the face pointing upwards to open up their airways. If any debris such as vomit can be seen, it is appropriate to move them onto their side to allow it to get out, which is achieved with the recovery position.Check for a pulse.
+</string>\n
+    <string name="step27"><b>STEP 3: </b> \n
+
+<b>If </b> the person remains unresponsive, prep for CPR. Unless you suspect a spinal injury, carefully roll them onto their back and open their airway. If you suspect a spinal injury, leave the person where they are, provided they are breathing.\n
+<b>•  Keep</b>  the head and neck aligned. \n
+<b>•  Carefully</b> roll them onto their back while holding their head. \n
+<b>•  Open </b>the airway by lifting the chin. \n
+</string> \n
+    <string name="step28"><b>STEP 4: </b> \n
+  <b>  Perform 30 </b> chest compressions and two rescue breaths as part of CPR. In the center of the chest, just below an imaginary line running between the nipples, put your two hands together and compress the chest down approximately 2 inches (5.1 cm) at a rate of 100 compressions per minute (or to the beat of "Staying Alive"). After 30 compressions, give two rescue breaths, done by opening the airways, closing the nose and fully covering the mouth hole. Then check vitals. If the breaths are blocked, reposition the airway. Make sure the head is tilted slightly back and the tongue is not obstructing it. Continue this cycle of 30 chest compressions and two rescue breaths until someone else relieves you</string> \n
+    <string name="step29"><b>STEP 5: </b> \n
+        <b>Remember</b> your ABCs of CPR. The ABCs of CPR refer to the three critical things you need to look for.Check these three things frequently as you give the person first aid CPR. \n
+<b>•  Airway.</b> Does the person have an unobstructed airway? \n
+<b>•  Breathing. </b>Is the person breathing? \n
+<b>•  Circulation.</b> Does the person show a pulse at major pulse points (wrist, carotid artery, groin)?
+</string>\n
+    <string name="step30"><b>STEP 1:</b> \n
+   <b> Restrict </b>the person’s movement as much as possible. The first step in providing first aid is to prevent the injured person from moving. Ask them to sit or lie still, and try to make them as comfortable as possible.
+</string>\n
+    <string name="step31"><b>STEP 2: </b> \n
+    <b>Use </b>a clean cloth to stop any bleeding. If there is any bleeding at the site of the closed fracture (or anywhere else on the body), you can stop or minimize the blood loss by applying direct pressure to the wound with a clean cloth. The pressure constricts the blood vessels, keeping the bleeding under control.</string> \n
+    <string name="step32"><b>STEP 3: </b> \n
+    <b> Immobilize</b> the injured area to prevent further injury. The next step is to immobilize the fractured limb using a splint — this will prevent the bone from becoming displaced further. Don’t try to move or realign a deformed bone.</string> \n
+    <string name="step33"><b> STEP 4: </b> \n
+    Elevate the fractured limb. If it is possible to do so without causing further injury, try to keep the injured limb elevated above heart level. This reduces blood flow to the area and prevents swelling. If the injured person is lying down, you can prop their fractured arm, hand, leg or foot on a stack of pillows or cushions. \n
+    </string><string name="step34"><b>STEP 1:</b>
+<b>  Cover </b>the wound with a sterile dressing and control the bleeding. If you have sterile dressings available use them to cover the wound and apply pressure to stop the bleeding around the bone. However, if sterile dressings are not available, you may have access to feminine protection pads or urinary incontinence pads. These are cleaner than material found in the vicinity of the accident and will reduce the risk of infection. If these are not available, use white material first, such as a shirt or bedsheets. If all else fails, just use the cleanest material possible.</string> \n
+    <string name="step35"><b> STEP 2:</b> \n
+   <b> Create</b> a temporary splint from solid material in the area. Support the area to reduce pain and discomfort for the individual using soft towels, pillows, clothing or blankets.This will help to reduce the potential for shock. If there is nothing available, do not move the person or injured area and wait for emergency personnel to splint the area.</string> \n
+    <string name="step36"><b>STEP 3: </b> \n
+    <b>Evaluate</b> and treat for shock. The force of the injury and extent of the trauma may cause the individual to go into shock. This can be life-threatening. Signs of shock include: feeling faint, breathing in short rapids breaths, cold and clammy skin, blue lips, rapid but weak pulse, and anxiety.\n
+<b>•  Try </b>to place the individual’s head lower than his trunk. The legs may also be elevated only if they are not injured.\n
+<b>•  Make</b> the person as comfortable as possible. Wrap her in a blanket jacket, or anything available to keep her warm.\n
+<b>•  Check </b>the person\'s vital signs. Make sure her pulse and breathing continue to be normal.
+</string>\n
+    <string name="title_activity_safety">SafetyActivity</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
